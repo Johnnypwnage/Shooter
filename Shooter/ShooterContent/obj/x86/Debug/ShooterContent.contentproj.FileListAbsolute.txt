@@ -1,0 +1,2 @@
+C:\Users\itac4397\Desktop\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\jwel2216\Desktop\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
